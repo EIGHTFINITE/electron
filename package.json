@@ -1,0 +1,19 @@
+{
+  "author": "Electron Community",
+  "bin": {
+    "electron": "cli.js"
+  },
+  "description": "Build cross platform desktop apps with JavaScript, HTML, and CSS",
+  "engines": {
+    "node": ">= 12.20.55"
+  },
+  "keywords": [
+    "electron"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "electron",
+  "repository": "https://github.com/electron/electron",
+  "types": "electron.d.ts",
+  "version": "22.0.0"
+}
